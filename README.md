@@ -1,7 +1,7 @@
 # Academic & Research Projects Portfolio
 Welcome to my research portfolio. This repository contains a collection of technical reports and practical projects developed during my academic studies.
 
-## 📂 Projects Overview
+## Projects Overview
 
 ### 1. Applied Deep Learning: CNNs and Transfer Learning
 **Type:** Practical Assignment Project
